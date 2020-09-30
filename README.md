@@ -1,4 +1,4 @@
-# JETBabelExample
+# Oracle JET with Babel Example
 ### This is a sample project.  It is not supported in any way.  The code is delivered as-is with no claim of correctness, or continued support.
 
 Make sure you have the ojet-cli already installed at a global level
