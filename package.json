@@ -1,0 +1,19 @@
+{
+  "name": "babelTest",
+  "version": "2.0.0",
+  "description": "Sample showing how to use Babel with JET v9+",
+  "dependencies": {
+    "@oracle/oraclejet": "~9.1.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@oracle/oraclejet-tooling": "~9.1.0",
+    "requirejs-babel": "0.0.9"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "private": true
+}
